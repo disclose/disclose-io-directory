@@ -16,6 +16,8 @@ The [Disclose.io](https://disclose.io) Project Directory - All active and propos
 - [Research Threats](https://github.com/disclose/research-threats) - Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg
 - [Bug Bounty and VDP Platforms](https://github.com/disclose/bug-bounty-platforms) - A community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.
 - [diodata](https://github.com/disclose/diodata) - Tools, data, and contact lists relevant to The disclose.io Project.
+- [diosts](https://github.com/disclose/diosts) - A Go scraper that validates security.txt files and outputs them in the disclose.io JSON format.
+- [data.disclose.io](https://data.disclose.io) - Internet-wide survey of vulnerability disclosure and bug bounty program adoption.
 
 # Want to contribute? 
 
