@@ -1,0 +1,7 @@
+- name: GitHub Organization Stats
+  # You may pin to the exact commit or the version.
+  # uses: gr2m/org-stats-action@1a8b6946e2a6e5b2b5f8670cb0fc376760f558b9
+  uses: gr2m/org-stats-action@v1.0.3
+  with:
+    # GitHub organization login
+    org: disclose
