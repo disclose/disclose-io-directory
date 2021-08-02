@@ -4,20 +4,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site title and description
-title:              disclose-io-directory
-description:        The Disclose.io Project Directory - All active and proposed disclose.io projects and services.
-lang:               en
-
-
-# Default footer image settings
-footer:
-    copyright:      Copyright 2018-2021 disclose.io
-
-# Disqus comments shortname, requires Disqus account https://disqus.com/
-disqus:
-    shortname:      disclose_io
-
 # Google analytics code, get your code here https://www.google.com/analytics/
 google_analytics:   UA-143424917-13
 
