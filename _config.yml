@@ -20,7 +20,3 @@ exclude:
 
 include: 
   - ".well-known"
-
-- name: GitHub Organization Stats
-  uses: gr2m/org-stats-action@v1.0.3
-
