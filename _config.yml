@@ -5,7 +5,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Disclose.io Project Directory
+title:              disclose-io-directory
 description:        The Disclose.io Project Directory - All active and proposed disclose.io projects and services.
 lang:               en
 
