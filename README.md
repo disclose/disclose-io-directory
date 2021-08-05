@@ -5,6 +5,9 @@ The [Disclose.io](https://disclose.io) Project Directory - All active and propos
 
 - [Policymaker](https://policymaker.disclose.io) - Template-based generator for VDP policy, safe harbor clauses, security.txt, and DNS Security TXT.
   - Note: Policymaker is currently in Beta. We're actively soliciting feedback via [The Disclose.io Community](https://community.disclose.io/t/feedback-wanted-policymaker-vdp-policy-generator-plus-security-txt-and-dns-security-txt-beta-is-live/255).
+
+![output](https://user-images.githubusercontent.com/12779999/128340994-ed714a59-a403-46fb-a0e5-e76db281f57a.gif)
+
 - [dioterms](https://github.com/disclose/dioterms) - Open-source vulnerability disclosure policy templates.
 - [Disclose.io Database](https://disclose.io/programs/) - Open-source vulnerability disclosure and bug bounty program database.
 - [dioseal](https://github.com/disclose/dioseal) - The Disclose.io Status best practice seal.
